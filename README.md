@@ -1,1 +1,1 @@
-# Custom-Allocator This is a custom allocator in C++ using DrDobbs Simple Memory Allocator. The code snippets demonstrates the usage of custom memory allocator in STL containers. 
+# This is a Custom-Allocator in C++ using DrDobbs Simple Memory Allocator code. The code snippets demonstrates the usage of custom memory allocator in STL containers.Very efficient and fast in comparision default std compiler supplied allocator.
